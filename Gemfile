@@ -50,14 +50,15 @@ group :test do
   gem 'webdrivers'
 end
 
-gem "administrate" # /admin gem
+gem "administrate"                     # /admin gem
+gem 'devise'                           # users gem
 
 # Front End
-gem "haml-rails", "~> 2.0" # use HAML instead of ERB
-gem 'simple_form' # better forms
+gem "haml-rails", "~> 2.0"             # use HAML instead of ERB
+gem 'simple_form'                      # better forms
 
 # Server Side Processing
-gem 'whenever', require: false # Cron jobs
+gem 'whenever', require: false         # Cron jobs
 
 
 

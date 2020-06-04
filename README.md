@@ -23,6 +23,12 @@ Things you may want to cover:
 
 * ...
 
+## Install Commands
+
+`rails db:create`
+`rails db:migrate`
+`rails s`
+
 
 ## Update Commands
 
