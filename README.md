@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+## Update Commands
+
+To write crontab file for jobs, execute:
+`whenever --update-crontab`
