@@ -59,7 +59,7 @@ gem 'simple_form'                      # better forms
 
 # Server Side Processing
 gem 'whenever', require: false         # Cron jobs
-
+gem 'sidekiq'
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

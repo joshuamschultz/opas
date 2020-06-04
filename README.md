@@ -34,3 +34,8 @@ Things you may want to cover:
 
 To write crontab file for jobs, execute:
 `whenever --update-crontab`
+
+## Ongoing Updates
+### Sidekiq / Active Job
+- [Add Sidekiq Worker](https://github.com/mperham/sidekiq/wiki/Getting-Started)
+- [Connect with Active Job](https://github.com/mperham/sidekiq/wiki/Active-Job)
