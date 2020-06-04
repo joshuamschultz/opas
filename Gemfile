@@ -50,7 +50,13 @@ group :test do
   gem 'webdrivers'
 end
 
-gem "administrate"
+gem "administrate" # /admin gem
+
+# Front End
+gem "haml-rails", "~> 2.0" # use HAML instead of ERB
+gem 'simple_form' # better forms
+
+
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
